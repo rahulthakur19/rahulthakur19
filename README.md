@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulthakur19.
+- 👋 Hey, I’m @rahulthakur19.
 - 👀 I’m interested in full stack developent and competitivee programming.
 
 <!---
