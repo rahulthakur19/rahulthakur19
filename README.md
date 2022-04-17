@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47zdx0vpm25no6zkd0reugexrjfr6tg36k8ftnlpbt&rid=giphy.gif&ct=g" width="400px">
 
 ### About me
