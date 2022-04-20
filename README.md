@@ -3,7 +3,7 @@
 
 ### About me
 - 👋 Hey, I’m @rahulthakur19.
-- 👀 I’m  a full stack developer and competitive programmer.
+- 👀 I’m  a full stack developer and competitive programer.
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
